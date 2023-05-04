@@ -31,3 +31,21 @@ For my full portfolio click here
 |Code Analysys & Test|✓
 |CI/CD|✓
 |QA &&<br>App Puplishing|✓|  
+
+
+## Learning
+| Status | Year      | Course                         | Tutor                       |
+|--------|-----------|--------------------------------|-----------------------------|   
+| ✓      | Nov.2022  |  Jetpack Compose<br>by Tutorials|  Tino Balint & Denis Buketa |
+
+## Highlights
+The most interesting of what I'm watching, reading, and doing:
+
+Click here for playlists, articles, talks, tutorials, and more
+
+## Interests
+I'm currently interested in/excited about:<br>
+
+- Android SDK<br>
+- Kotlin<br>
+- Jetpack Compose<br>
