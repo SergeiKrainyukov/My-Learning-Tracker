@@ -1,7 +1,7 @@
 # My-Learning-Tracker
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-For my full portfolio click here
+[For my full portfolio click here](https://sergeikrainyukov.github.io/SergeiKrainyukov/)
 
 ## Skills
 | Skill | 1 <br>Introduction | 2 <br> Basics | 3 <br> Good | 4 <br> Pretty Good | 5 <br> Confident | 6 <br> Awesome      |
